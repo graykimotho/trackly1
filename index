@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Trackly</title>
+  </head>
+  <body>
+    <h1>Trackly</h1>
+
+    <p>
+      Trackly is a personal software project for household budgeting and
+      expense tracking via WhatsApp.
+    </p>
+
+    <p>
+      This project is built and maintained by an individual developer.
+    </p>
+
+    <p>
+      Contact: hello@trackly.dev
+    </p>
+  </body>
+</html>
